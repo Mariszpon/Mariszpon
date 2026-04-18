@@ -4,12 +4,6 @@ My name is Mariana Pondé and I am a Computer Science student at PUCPR, passiona
 
 This space is dedicated to my academic projects, personal experiments, and programming challenges. I believe that learning is building, so each repository reflects my evolution in the field !! ⋆˚࿔
 
-⋆.𐙚 ̊  I'm currently:
-
-* Reviewing Python concepts;
-* Learning JavaScript;
-* Creating small projects inspired by games;
-
 My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜) ⋆.˚
 
 ---
