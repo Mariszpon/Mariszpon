@@ -35,5 +35,6 @@ My long-term goal is to combine my background in Computer Science with my passio
 * [Instagram](https://www.instagram.com/mariszpon/?__d=11) 
 * [Carrd](https://mariszpon.carrd.co) 
 * [Linkedin](https://www.linkedin.com/in/mariana-pondé-0964553bb/)
+* [email](marianahponde@gmail.com)
 
 ---
