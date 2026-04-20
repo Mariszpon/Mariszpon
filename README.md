@@ -37,3 +37,5 @@ My long-term goal is to combine my background in Computer Science with my passio
 * [Linkedin](https://www.linkedin.com/in/mariana-pondé-0964553bb/)
 
 ---
+<img width="1080" height="393" alt="image" src="https://github.com/user-attachments/assets/25f072e6-0d44-49da-9afc-57187c7de5ed" />
+
