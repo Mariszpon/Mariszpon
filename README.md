@@ -8,20 +8,20 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 
 ---
 
-### .✦ ݁˖ Tech:
+### 🍯.✦ ݁˖ Tech:
 
 * Languages: Python
 * Other: Git/Github | Figma
 
 ---
 
-### .✦ ݁˖ About me:
+### 🐝.✦ ݁˖ About me:
 
 My passion for programming was born from video games. Today, I strive to create projects that merge creativity with technology, while exploring programming, networking, and software development. ⊹ ࣪ ˖
 
 My long-term goal is to combine my background in Computer Science with my passion for design. In the future, I plan to pursue a graduate-level specialization in Graphic Design, bridging creativity and technology to build impactful digital experiences. ⋆˚࿔
 
-### .✦ ݁˖ Other curiosities:
+### 🧺.✦ ݁˖ Other curiosities:
 
 * I've tried creating mods for games just for fun;
 * I love solving puzzles and logic challenges;
@@ -30,7 +30,7 @@ My long-term goal is to combine my background in Computer Science with my passio
 
 ---
 
-### .✦ ݁˖ Contact: 
+### 🍰.✦ ݁˖ Contact: 
 
 * [Instagram](https://www.instagram.com/mariszpon/?__d=11) 
 * [Carrd](https://mariszpon.carrd.co) 
