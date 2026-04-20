@@ -6,7 +6,8 @@ This space is dedicated to my academic projects, personal experiments, and progr
 
 My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜) ⋆.˚
 
-<img width="1196" height="178" alt="image" src="https://github.com/user-attachments/assets/a0f53c5e-f0ed-4db5-aa38-4d5d0d8fa468" />
+<img width="1199" height="534" alt="image" src="https://github.com/user-attachments/assets/161c52f4-79f0-4909-be7c-e55e2e4c337f" />
+
 
 
 ### 🍯.✦ ݁˖ Tech:
