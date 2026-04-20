@@ -11,7 +11,7 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 ### 🍯.✦ ݁˖ Tech:
 
 * Languages: Python
-* Other: Git/Github | Figma
+* Other: Github | Figma
 
 ---
 
