@@ -6,9 +6,7 @@ This space is dedicated to my academic projects, personal experiments, and progr
 
 My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜) ⋆.˚
 
-<img width="1199" height="534" alt="image" src="https://github.com/user-attachments/assets/161c52f4-79f0-4909-be7c-e55e2e4c337f" />
-
-
+---
 
 ### 🍯.✦ ݁˖ Tech:
 
@@ -39,4 +37,5 @@ My long-term goal is to combine my background in Computer Science with my passio
 * [Linkedin](https://www.linkedin.com/in/mariana-pondé-0964553bb/)
 
 ---
+<img width="1041" height="228" alt="image" src="https://github.com/user-attachments/assets/0e79b2bc-e84d-49c2-ad23-591d40c5089e" />
 
