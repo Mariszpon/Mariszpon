@@ -10,7 +10,7 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 
 ### 🍯.✦ ݁˖ Tech:
 
-* Languages: Python
+* Languages: Python | Java (Learning)
 * Other: Github | Figma
 
 ---
