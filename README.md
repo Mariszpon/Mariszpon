@@ -11,7 +11,7 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 ### 🍯.✦ ݁˖ Skills:
 
 * Languages: Python | Java (Learning)
-* Other: Github | Figma
+* Other: Git/Github | Figma
 
 ---
 
