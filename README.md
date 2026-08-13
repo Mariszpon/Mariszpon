@@ -1,8 +1,8 @@
 # ♡ Hello, I'm Mariana !! 🧸
 
-My name is Mariana Pondé and I am a Computer Science student at PUCPR, passionate about technology, learning and challenges. ⊹ ࣪ ˖
+My name is Mariana Pondé and I'm a Computer Science student at PUCPR. ⊹ ࣪ ˖
 
-This space is dedicated to my academic projects, personal experiments, and programming challenges. I believe that learning is building, so each repository reflects my evolution in the field !! ⋆˚࿔
+Here, I keep my academic projects, small programming experiments, and ideas that I test out throughout my learning journey !! ⋆˚࿔
 
 My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜) ⋆.˚
 
