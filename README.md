@@ -8,7 +8,7 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 
 ---
 
-### 🍯.✦ ݁˖ Principal skills:
+### 🍯.✦ ݁˖ Key skills:
 
 * Python
 * Java (Learning)
@@ -25,7 +25,7 @@ My passion for programming was born from video games. Today, I strive to create 
 
 My long-term goal is to combine my background in Computer Science with my passion for design. In the future, I plan to pursue a graduate-level specialization in Graphic Design, bridging creativity and technology to build impactful digital experiences. ⋆˚࿔
 
-### 🧺.✦ ݁˖ Other curiosities:
+### 🧺.✦ ݁˖ Objectives:
 
 * I've tried creating mods for games just for fun;
 * I love solving puzzles and logic challenges;
@@ -36,8 +36,9 @@ My long-term goal is to combine my background in Computer Science with my passio
 
 ### 🍰.✦ ݁˖ Contact: 
 
-* [Instagram](https://www.instagram.com/mariszpon/?__d=11) 
-* [Carrd](https://mariszpon.carrd.co) 
+* Instagram: [mariszpon](https://www.instagram.com/mariszpon/?__d=11) 
+* Carrd: [mariszpon](https://mariszpon.carrd.co)
+* Email: marianahponde@gmail.com
 
 ---
 <img width="1200" height="191" alt="image" src="https://github.com/user-attachments/assets/d8825a03-a67d-45ff-937b-33b3a5f94258" />
