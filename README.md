@@ -17,12 +17,11 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 * HTML & CSS
 
 ---
-
 ### 🐝.✦ ݁˖ About me:
 
-My passion for programming was born from video games. Today, I strive to create projects that merge creativity with technology, while exploring programming, networking, and software development. ⊹ ࣪ ˖
+My interest in technology began at a young age, when I had my first experiences exploring the internet and writing simple code on platforms like Scratch. ⊹ ࣪ ˖
 
-My long-term goal is to combine my background in Computer Science with my passion for design. In the future, I plan to pursue a graduate-level specialization in Graphic Design, bridging creativity and technology to build impactful digital experiences. ⋆˚࿔
+In addition to the field of technology, I have strong skills in drawing and visual arts. I'm also highly proficient in English. Currently, I am dedicating myself to website development and graphic design, and looking to take some courses. ⋆˚࿔
 
 ### 🧺.✦ ݁˖ Featured projects:
 
