@@ -11,11 +11,10 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 ### 🍯.✦ ݁˖ Key skills:
 
 * Python
-* Java (Learning)
-* Git/Github
+* Java *(Learning)*
+* Git & Github
 * Figma
-* HTML
-* CSS
+* HTML & CSS
 
 ---
 
