@@ -24,12 +24,10 @@ My passion for programming was born from video games. Today, I strive to create 
 
 My long-term goal is to combine my background in Computer Science with my passion for design. In the future, I plan to pursue a graduate-level specialization in Graphic Design, bridging creativity and technology to build impactful digital experiences. ⋆˚࿔
 
-### 🧺.✦ ݁˖ Objectives:
+### 🧺.✦ ݁˖ Featured projects:
 
-* I've tried creating mods for games just for fun;
-* I love solving puzzles and logic challenges;
-* I'm passionate about traveling and exploring the world;
-* I have already participated in cultural events at school (Theater and music).
+* [Jokenpô](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Jokenp-)
+* [Batalha Naval](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Batalha-Naval)
 
 ---
 
