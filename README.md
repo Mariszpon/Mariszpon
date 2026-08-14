@@ -12,6 +12,8 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 
 * Python
 * Java *(Learning)*
+* C *(Learning)*
+* C++ *(Learning)*
 * Git & Github
 * Figma
 * HTML & CSS
