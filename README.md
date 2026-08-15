@@ -15,7 +15,6 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 * C *(Learning)*
 * C++ *(Learning)*
 * Git & Github
-* Figma
 * HTML & CSS
 
 ---
