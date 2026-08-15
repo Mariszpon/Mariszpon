@@ -27,8 +27,8 @@ In addition to the field of technology, I have strong skills in drawing and visu
 
 ### 🧺.✦ ݁˖ Featured projects:
 
-* [Jokenpô](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Jokenp-)
-* [Batalha Naval](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Batalha-Naval)
+* [jokenpo](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Jokenp-)
+* [batalha-naval](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Batalha-Naval)
 
 ---
 
