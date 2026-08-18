@@ -10,6 +10,7 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 
 ### 🍯.✦ ݁˖ Key skills:
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 * Python
 * Java *(Learning)*
 * C *(Learning)*
