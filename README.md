@@ -1,4 +1,4 @@
-# ♡ Hello, I'm Mariana !! 🧸
+# ♡ It's-a me, Mariana !! 🧸
 
 My name is Mariana Pondé and I'm a Computer Science student at PUCPR. ⊹ ࣪ ˖
 
