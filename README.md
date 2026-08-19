@@ -31,6 +31,14 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 
   </div>
 
+### 🍯.✦ ݁˖ Software & Platforms:
+
+  <div align="center">
+
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+  </div>
+
 ---
 ### 🐝.✦ ݁˖ About me:
 
