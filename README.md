@@ -33,11 +33,13 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
   
 <br>
 ### 🍯.✦ ݁˖ Software & Platforms:
+
 * Visual Studio Code
 * GitHub
 * Notion
 * Canva
 * Carrd
+
 
   <div align="center">
 
