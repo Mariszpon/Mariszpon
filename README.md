@@ -6,6 +6,9 @@ Here, I keep my academic projects, small programming experiments, and ideas that
 
 My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜) ⋆.˚
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariszpon&show_icons=true&theme=tokyonight" />
+
 ---
 
 ### 🍯.✦ ݁˖ Key skills:
