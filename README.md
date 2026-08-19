@@ -33,7 +33,7 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
   
 <br>
 
-### 🍯.✦ ݁˖ Software & Platforms:
+###  🧋.✦ ݁˖ Software & Platforms:
 
 * Visual Studio Code
 * GitHub
