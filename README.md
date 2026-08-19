@@ -32,6 +32,7 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
   </div>
   
 <br>
+
 ### 🍯.✦ ݁˖ Software & Platforms:
 
 * Visual Studio Code
