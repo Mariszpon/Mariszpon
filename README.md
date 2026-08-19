@@ -7,6 +7,19 @@ Here, I keep my academic projects, small programming experiments, and ideas that
 My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜) ⋆.˚
 
 ---
+### 🐝.✦ ݁˖ About me:
+
+My interest in technology began at a young age, when I had my first experiences exploring the internet and writing simple code on platforms like Scratch. ⊹ ࣪ ˖
+
+In addition to the field of technology, I have strong skills in drawing and visual arts. I'm also highly proficient in English. Currently, I am dedicating myself to website development and graphic design, and looking to take some courses. ⋆˚࿔
+
+### 🧺.✦ ݁˖ Featured projects:
+
+* [jokenpo](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Jokenp-)
+* [batalha-naval](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Batalha-Naval)
+* [interactive-cards](https://github.com/Mariszpon/interactive-cards)
+
+---
 
 ### 🍯.✦ ݁˖ Key skills:
 
@@ -51,19 +64,6 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
   <img src="https://img.shields.io/badge/Carrd-1E1E1E?style=for-the-badge&logo=carrd&logoColor=white" 
 
   </div>
-
----
-### 🐝.✦ ݁˖ About me:
-
-My interest in technology began at a young age, when I had my first experiences exploring the internet and writing simple code on platforms like Scratch. ⊹ ࣪ ˖
-
-In addition to the field of technology, I have strong skills in drawing and visual arts. I'm also highly proficient in English. Currently, I am dedicating myself to website development and graphic design, and looking to take some courses. ⋆˚࿔
-
-### 🧺.✦ ݁˖ Featured projects:
-
-* [jokenpo](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Jokenp-)
-* [batalha-naval](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Batalha-Naval)
-* [interactive-cards](https://github.com/Mariszpon/interactive-cards)
 
 ---
 
