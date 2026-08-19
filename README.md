@@ -32,10 +32,19 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
   </div>
 
 ### 🍯.✦ ݁˖ Software & Platforms:
+* Visual Studio Code
+* GitHub
+* Notion
+* Canva
+* Carrd
 
   <div align="center">
 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Carrd-1E1E1E?style=for-the-badge&logo=carrd&logoColor=white" 
 
   </div>
 
