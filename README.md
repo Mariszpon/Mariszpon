@@ -11,14 +11,13 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 ### 🍯.✦ ݁˖ Key skills:
 
 * Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 * Java *(Learning)*
 * C *(Learning)*
 * C++ *(Learning)*
 * Git & Github
 * HTML & CSS
 
-<details>
-  <summary>Icons</summary>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -27,7 +26,7 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-</details>
+
 
 ---
 ### 🐝.✦ ݁˖ About me:
