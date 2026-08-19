@@ -30,6 +30,7 @@ My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
   </div>
+  
 <br>
 ### 🍯.✦ ݁˖ Software & Platforms:
 * Visual Studio Code
