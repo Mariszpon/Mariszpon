@@ -44,7 +44,7 @@ In addition to the field of technology, I have strong skills in drawing and visu
   
 <br>
 
-###  🧋.✦ ݁˖ Software & Platforms:
+###  🧋.✦ ݁˖ Dev & Design Setup:
 
 * Visual Studio Code
 * GitHub
