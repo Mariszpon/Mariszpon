@@ -1,13 +1,12 @@
 # ♡ It's-a me, Mariana !! 🧸
 
+### 🐝.✦ ݁˖ About me:
+
 My name is Mariana Pondé and I'm a Computer Science student at PUCPR. ⊹ ࣪ ˖
 
 Here, I keep my academic projects, small programming experiments, and ideas that I test out throughout my learning journey !! ⋆˚࿔
 
 My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜) ⋆.˚
-
----
-### 🐝.✦ ݁˖ About me:
 
 My interest in technology began at a young age, when I had my first experiences exploring the internet and writing simple code on platforms like Scratch. ⊹ ࣪ ˖
 
