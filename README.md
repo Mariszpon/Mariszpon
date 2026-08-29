@@ -69,10 +69,25 @@ In addition to the field of technology, I have strong skills in drawing and visu
 
 ### 🍰.✦ ݁˖ Contact: 
 
-* Instagram: [mariszpon](https://www.instagram.com/mariszpon/?__d=11) 
-* Carrd: [mariszpon](https://mariszpon.carrd.co)
-* Email: marianahponde@gmail.com
-* Codédex: [mariszpon](https://www.codedex.io/@mariszpon)
+<div align="center">
+
+  <a href="https://www.instagram.com/mariszpon/?__d=11">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://mariszpon.carrd.co">
+    <img src="https://img.shields.io/badge/Carrd-1E1E1E?style=for-the-badge&logo=carrd&logoColor=white" />
+  </a>
+
+  <a href="mailto:marianahponde@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.codedex.io/@mariszpon">
+    <img src="https://img.shields.io/badge/Codédex-6A5ACD?style=for-the-badge&logo=book&logoColor=white" />
+  </a>
+
+</div>
 
 ---
 <img width="1200" height="191" alt="image" src="https://github.com/user-attachments/assets/d8825a03-a67d-45ff-937b-33b3a5f94258" />
