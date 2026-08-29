@@ -65,7 +65,7 @@ In addition to the field of technology, I have strong skills in drawing and visu
 
 ---
 
-🍰.✦ ݁˖ <i> Contact: </i> 
+###🍰.✦ ݁˖ <i> Contact: </i> 
 
 <div align="center">
 
