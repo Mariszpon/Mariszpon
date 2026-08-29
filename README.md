@@ -59,7 +59,7 @@ In addition to the field of technology, I have strong skills in drawing and visu
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Carrd-1E1E1E?style=for-the-badge&logo=carrd&logoColor=white" 
+  <img src="https://img.shields.io/badge/Carrd-1E1E1E?style=for-the-badge&logo=carrd&logoColor=white" />
 
   </div>
 
