@@ -72,7 +72,7 @@ In addition to the field of technology, I have strong skills in drawing and visu
 * Instagram: [mariszpon](https://www.instagram.com/mariszpon/?__d=11) 
 * Carrd: [mariszpon](https://mariszpon.carrd.co)
 * Email: marianahponde@gmail.com
-* Codédex: [mariszpon]([https://mariszpon.carrd.co](https://www.codedex.io/@mariszpon))
+* Codédex: [mariszpon](https://www.codedex.io/@mariszpon)
 
 ---
 <img width="1200" height="191" alt="image" src="https://github.com/user-attachments/assets/d8825a03-a67d-45ff-937b-33b3a5f94258" />
