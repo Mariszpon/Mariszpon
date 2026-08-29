@@ -40,9 +40,7 @@ In addition to the field of technology, I have strong skills in drawing and visu
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
   </div>
-  
-<br>
-  
+
 ###  🧋.✦ ݁˖ <i> Dev & Design Setup: </i> 
 
 * Pycharm
