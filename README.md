@@ -34,13 +34,6 @@ In addition to the field of technology, I have strong skills in drawing and visu
 
 </i> 
 
-| Category | Technology |
-|---|---|
-| Languages | <img src="https://camo.githubusercontent.com/a8b52665caa91af802705c0aebde80128a4da60fa029ac00aab1b2f734797801/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d632c6370702c707974686f6e2c6a617661736372697074"/> |
-| Frontend |  |
-| Backend |  |
-| Tools |  |
-
 * Python
 * HTML & CSS
 * Git & Github
