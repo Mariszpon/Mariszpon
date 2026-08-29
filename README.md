@@ -4,9 +4,7 @@
 
   </div>
   
-### 🐝.✦ ݁˖ <i> About me: 
-
-</i>
+### 🐝.✦ ݁˖ <i> About me: </i>
 
 My name is Mariana Pondé and I'm a Computer Science student at PUCPR. Here, I keep my academic projects, small programming experiments, and ideas that I test out throughout my learning journey !! ⋆˚࿔
 
@@ -14,22 +12,15 @@ My interest in technology began at a young age, when I had my first experiences 
 
 In addition to the field of technology, I have strong skills in drawing and visual arts. I'm also highly proficient in English. Currently, I am dedicating myself to website development and graphic design, and looking to take some courses. ⋆˚࿔
 
-### 🧺.✦ ݁˖ <i> 
-Featured projects:
-
-</i> 
+### 🧺.✦ ݁˖ <i> Featured projects: </i> 
 
 * [jokenpo](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Jokenp-)
 * [batalha-naval](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Batalha-Naval)
 * [interactive-cards](https://github.com/Mariszpon/interactive-cards)
 
----
+--- 
 
-<i> 
-
-### 🍯.✦ ݁˖ Key skills:
-
-</i> 
+### 🍯.✦ ݁˖ <i> Key skills: </i> 
 
 * Python
 * HTML & CSS
@@ -51,11 +42,8 @@ Featured projects:
   </div>
   
 <br>
-<i> 
   
-###  🧋.✦ ݁˖ Dev & Design Setup:
-
-</i> 
+###  🧋.✦ ݁˖ <i> Dev & Design Setup: </i> 
 
 * Pycharm
 * Visual Studio Code
@@ -77,11 +65,8 @@ Featured projects:
   </div>
 
 ---
-<i> 
-  
-<p> 🍰.✦ ݁˖ Contact: </p>
 
-</i> 
+🍰.✦ ݁˖ <i> Contact: </i> 
 
 <div align="center">
 
