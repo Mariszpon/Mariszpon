@@ -1,5 +1,5 @@
-<img width="1068" height="151" alt="image" src="https://github.com/user-attachments/assets/2744fb45-cefd-46ed-aa93-1a577f638aaf" />
-  
+<img width="504" height="280" alt="image" src="https://github.com/user-attachments/assets/fc783194-8285-418a-985e-38eee5d84b2b" />
+
   <div align="center">
 
 # ♡ It's-a me, Mariana !! 🧸
