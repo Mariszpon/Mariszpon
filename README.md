@@ -11,13 +11,9 @@
 </i>
 
 My name is Mariana Pondé and I'm a Computer Science student at PUCPR. ⊹ ࣪ ˖
-
-Here, I keep my academic projects, small programming experiments, and ideas that I test out throughout my learning journey !! ⋆˚࿔
-
-My development is fully documented in my repositories !! ദ്ദി◝ ⩊ ◜) ⋆.˚
+Here, I keep my academic projects, small programming experiments, and ideas that I test out throughout my learning journey !! ⋆˚࿔ ദ്ദി◝ ⩊ ◜) ⋆.˚
 
 My interest in technology began at a young age, when I had my first experiences exploring the internet and writing simple code on platforms like Scratch. ⊹ ࣪ ˖
-
 In addition to the field of technology, I have strong skills in drawing and visual arts. I'm also highly proficient in English. Currently, I am dedicating myself to website development and graphic design, and looking to take some courses. ⋆˚࿔
 
 <i> 
@@ -37,6 +33,16 @@ In addition to the field of technology, I have strong skills in drawing and visu
 ### 🍯.✦ ݁˖ Key skills:
 
 </i> 
+
+- **Linguagens:** C, C++, Python, JavaScript  
+- **Frontend:** HTML5, CSS3, React  
+- **Backend:** Node.js, Express.js  
+- **Ferramentas:** Git, GitHub  
+
+
+
+
+
 
 * Python
 * HTML & CSS
