@@ -3,10 +3,8 @@
 # ♡ It's-a me, Mariana !! 🧸
 
   </div>
-
-<i> 
   
-### 🐝.✦ ݁˖ About me: 
+### 🐝.✦ ݁˖ <i> About me: 
 
 </i>
 
@@ -16,9 +14,8 @@ My interest in technology began at a young age, when I had my first experiences 
 
 In addition to the field of technology, I have strong skills in drawing and visual arts. I'm also highly proficient in English. Currently, I am dedicating myself to website development and graphic design, and looking to take some courses. ⋆˚࿔
 
-<i> 
-
-### 🧺.✦ ݁˖ Featured projects:
+### 🧺.✦ ݁˖ <i> 
+Featured projects:
 
 </i> 
 
