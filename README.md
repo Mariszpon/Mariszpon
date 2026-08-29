@@ -93,6 +93,8 @@ In addition to the field of technology, I have strong skills in drawing and visu
   <a href="mailto:marianahponde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.codedex.io/@mariszpon"><img src="https://img.shields.io/badge/Codédex-6A5ACD?style=for-the-badge&logo=book&logoColor=white"/></a>
 
+###### See you between the lines ~ 📜
+
 </div>
 
 ---
