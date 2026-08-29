@@ -34,15 +34,10 @@ In addition to the field of technology, I have strong skills in drawing and visu
 
 </i> 
 
-- **Linguagens:** C, C++, Python, JavaScript  
-- **Frontend:** HTML5, CSS3, React  
-- **Backend:** Node.js, Express.js  
-- **Ferramentas:** Git, GitHub  
-
-
-
-
-
+| Category | Technology |
+|---|---|
+| Lucas Dinnies | [@LRDinnies](https://github.com/LRDinnies) |
+| Mariana Pondé | [@Mariszpon](https://github.com/Mariszpon) |
 
 * Python
 * HTML & CSS
