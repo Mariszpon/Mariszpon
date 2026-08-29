@@ -1,9 +1,14 @@
   <div align="center">
+
 # ♡ It's-a me, Mariana !! 🧸
 
   </div>
 
-<i> ### 🐝.✦ ݁˖ About me: </i>
+<i> 
+  
+### 🐝.✦ ݁˖ About me: 
+
+</i>
 
 My name is Mariana Pondé and I'm a Computer Science student at PUCPR. ⊹ ࣪ ˖
 
