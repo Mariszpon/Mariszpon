@@ -20,7 +20,11 @@ My interest in technology began at a young age, when I had my first experiences 
 
 In addition to the field of technology, I have strong skills in drawing and visual arts. I'm also highly proficient in English. Currently, I am dedicating myself to website development and graphic design, and looking to take some courses. ⋆˚࿔
 
+<i> 
+
 ### 🧺.✦ ݁˖ Featured projects:
+
+</i> 
 
 * [jokenpo](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Jokenp-)
 * [batalha-naval](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Batalha-Naval)
@@ -28,7 +32,11 @@ In addition to the field of technology, I have strong skills in drawing and visu
 
 ---
 
+<i> 
+
 ### 🍯.✦ ݁˖ Key skills:
+
+</i> 
 
 * Python
 * HTML & CSS
@@ -50,8 +58,11 @@ In addition to the field of technology, I have strong skills in drawing and visu
   </div>
   
 <br>
-
+<i> 
+  
 ###  🧋.✦ ݁˖ Dev & Design Setup:
+
+</i> 
 
 * Pycharm
 * Visual Studio Code
@@ -73,8 +84,11 @@ In addition to the field of technology, I have strong skills in drawing and visu
   </div>
 
 ---
-
+<i> 
+  
 ### 🍰.✦ ݁˖ Contact: 
+
+</i> 
 
 <div align="center">
 
