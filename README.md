@@ -65,7 +65,7 @@ In addition to the field of technology, I have strong skills in drawing and visu
 
 ---
 
-###🍰.✦ ݁˖ <i> Contact: </i> 
+### 🍰.✦ ݁˖ <i> Contact: </i> 
 
 <div align="center">
 
@@ -73,12 +73,6 @@ In addition to the field of technology, I have strong skills in drawing and visu
   <a href="https://mariszpon.carrd.co"><img src="https://img.shields.io/badge/Carrd-1E1E1E?style=for-the-badge&logo=carrd&logoColor=white"/></a>
   <a href="mailto:marianahponde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.codedex.io/@mariszpon"><img src="https://img.shields.io/badge/Codédex-6A5ACD?style=for-the-badge&logo=book&logoColor=white"/></a>
-
-<i>
-
-<p> See you between the lines ~ 📜 </p>
-
-</i> 
 
 </div>
 
