@@ -24,12 +24,12 @@ In addition to the field of technology, I have strong skills in drawing and visu
 ### 🍯.✦ ݁˖ <i> Key skills: </i> 
 
 * Python
-* HTML & CSS
-* Git & Github
+* HTML
+* CSS
 * JavaScript *(Learning)*
 * C *(Learning)*
 * PHP *(Learning)*
-* JSON *(Learning)*
+* JSON
 
 
   <div align="center">
@@ -37,8 +37,6 @@ In addition to the field of technology, I have strong skills in drawing and visu
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -51,7 +49,8 @@ In addition to the field of technology, I have strong skills in drawing and visu
 
 * Pycharm
 * Visual Studio Code
-* GitHub
+* Git
+* Github
 * Notion
 * Canva
 * Carrd
@@ -61,6 +60,7 @@ In addition to the field of technology, I have strong skills in drawing and visu
 
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
