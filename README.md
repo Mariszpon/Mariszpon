@@ -28,6 +28,8 @@ In addition to the field of technology, I have strong skills in drawing and visu
 * Git & Github
 * JavaScript *(Learning)*
 * C *(Learning)*
+* PHP *(Learning)*
+* JSON *(Learning)*
 
 
   <div align="center">
@@ -39,6 +41,8 @@ In addition to the field of technology, I have strong skills in drawing and visu
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 
   </div>
 <br>
