@@ -26,7 +26,7 @@ In addition to the field of technology, I have strong skills in drawing and visu
 * Python
 * HTML
 * CSS
-* JavaScript
+* JavaScript *(Learning)*
 * C *(Learning)*
 * PHP *(Learning)*
 * JSON
