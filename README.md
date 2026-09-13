@@ -15,9 +15,10 @@ In addition to the field of technology, I have strong skills in drawing and visu
 
 ### 🧺.✦ ݁˖ <i> Featured projects: </i> 
 
+* [fullstack-exercises](https://github.com/Mariszpon/fullstack-exercises)
 * [jokenpo](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Jokenp-)
 * [batalha-naval](https://github.com/Mariszpon/Racioc-nio-Algor-tmico-Batalha-Naval)
-* [fullstack-exercises](https://github.com/Mariszpon/fullstack-exercises)
+* [c-exercises]([https://github.com/Mariszpon/fullstack-exercises](https://github.com/Mariszpon/c-exercises))
 
 --- 
 
